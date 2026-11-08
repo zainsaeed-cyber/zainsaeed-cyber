@@ -1,10 +1,10 @@
 <div align="center">
 
-# Zain Saeed
+<img width="100%" alt="Zain Saeed banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,50:2E5C9A,100:3EA0E0&height=230&section=header&text=Zain%20Saeed&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Junior%20SOC%20Analyst%20%7C%20Blue%20Team%20%7C%20Detection%20Engineering&descSize=20&descAlignY=58" />
 
-### Junior SOC Analyst &nbsp;|&nbsp; Blue Team &nbsp;|&nbsp; Detection Engineering
-
-*Detecting, investigating and responding to threats, one alert at a time.*
+<a href="https://github.com/zainsaeed-cyber">
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F3864&center=true&vCenter=true&width=760&height=40&lines=Detecting+threats.+Investigating+alerts.;Wazuh+%7C+Splunk+%7C+Elastic+Stack;Custom+detection+rules+mapped+to+MITRE+ATT%26CK;Open+to+entry-level+SOC+Analyst+roles" />
+</a>
 
 <br>
 
@@ -133,3 +133,5 @@ I'm open to **entry-level SOC Analyst** roles, onsite, hybrid or remote.
 ![Profile Views](https://komarev.com/ghpvc/?username=zainsaeed-cyber&label=Profile+views&color=1F3864&style=flat-square)
 
 </div>
+
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:3EA0E0,50:2E5C9A,100:1F3864&height=110&section=footer" />
